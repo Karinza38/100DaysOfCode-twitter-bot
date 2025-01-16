@@ -1,4 +1,4 @@
-# [100DaysOfCode Twitter Bot](https://twitter.com/hashtag/100DaysOfCode?src=hash)
+ # [100DaysOfCode Twitter Bot](https://twitter.com/hashtag/100DaysOfCode?src=hash)
 
 <strong>Helping developers who participate in
 [#100DaysOfCode](https://twitter.com/hashtag/100DaysOfCode?src=hash)
